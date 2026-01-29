@@ -123,7 +123,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-[![An image of @nethmi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nethmi)](https://holopin.io/@sachith)
+[![An image of @sathsarani12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sathsarani12)](https://holopin.io/@sathsarani12)
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

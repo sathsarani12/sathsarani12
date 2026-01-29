@@ -106,7 +106,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Nethmi Sathsarani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathsarani12\&theme=monokai\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![sathsarani12's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathsarani12\&theme=monokai\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sathsarani12&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 

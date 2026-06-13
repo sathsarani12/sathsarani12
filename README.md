@@ -34,7 +34,7 @@
   C++, C#  
   
 
-📫 How to reach me nethmisathsarani453@gmail.com  
+📫 How to reach me nsathsarani453@gmail.com  
   
 
  ❓ Ask me about HTML 5, CSS, JavaScript, React Native, PHP, Java  

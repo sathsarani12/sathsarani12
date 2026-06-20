@@ -117,7 +117,7 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Nethmi Sathsarani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathsarani12&theme=rogue&custom_title=Sachith's%20GitHub%20Activity%20Graph&color=ed1c24)](https://github.com/sathsarani12/github-readme-activity-graph)
+[![Nethmi Sathsarani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathsarani12&theme=rogue&custom_title=Nethmi's%20GitHub%20Activity%20Graph&color=ed1c24)](https://github.com/sathsarani12/github-readme-activity-graph)
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
